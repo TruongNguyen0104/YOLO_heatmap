@@ -1,7 +1,7 @@
 # YOLOv4 with heatmap
 - GIF sample:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85657947/188273859-132d84b4-4698-44d7-b6a5-f8f8a5063aa7.gif" width="360">
+<img src="https://user-images.githubusercontent.com/85657947/188274247-db9bf0f3-9583-4e3e-b869-3e046ad30cae.gif" altar="gif sample">
 </p>
 
 - Image sample:
